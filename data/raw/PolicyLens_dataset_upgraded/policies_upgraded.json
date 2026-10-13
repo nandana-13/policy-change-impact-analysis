@@ -1,0 +1,162 @@
+[
+  {
+    "policy_id": "POL-001",
+    "policy_name": "Employee Data Protection Policy",
+    "category": "Data Privacy",
+    "department": "Human Resources",
+    "description": "This policy governs how the organisation collects, uses, stores, shares and disposes of personal information relating to employees, contractors, interns and job applicants. HR must collect only information required for legitimate employment, payroll, benefits, safeguarding and legal purposes. Access is restricted to authorised personnel based on role and business need.\n\nEmployee records containing personal or sensitive information must be stored in approved systems, protected against unauthorised access, and reviewed periodically for accuracy and retention. Transfers to third parties require an approved contractual or legal basis. HR must maintain records of processing activities, access permissions and material disclosures where required. Requests concerning access, correction or deletion of personal information must be routed through the designated privacy process.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-002",
+    "policy_name": "Customer Data Protection Policy",
+    "category": "Data Privacy",
+    "department": "Information Technology",
+    "description": "This policy establishes requirements for protecting customer personal information throughout its lifecycle. Business and technology teams must identify the categories of customer data they collect, the purpose for processing, authorised users, approved systems and permitted disclosures. Personal information must be protected using appropriate access controls, encryption and secure transmission mechanisms.\n\nCustomer data may be shared with processors or service providers only after the required security, privacy and contractual checks have been completed. Systems handling customer information must maintain access logs and support incident investigation. Material privacy incidents must be escalated to the privacy and information-security functions so that notification, containment and remediation obligations can be assessed.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-003",
+    "policy_name": "Data Retention Policy",
+    "category": "Data Privacy",
+    "department": "Information Technology",
+    "description": "This policy defines how long organisational records and information are retained, reviewed and securely disposed of. Retention periods are determined by record type, legal or regulatory requirements, contractual obligations and legitimate business needs. Records subject to a legal hold, investigation or audit must not be destroyed until the hold is formally released.\n\nSystem owners are responsible for maintaining retention schedules and implementing appropriate deletion or archival controls. Periodic reviews must identify records that have exceeded their approved retention period. Disposal must use approved secure deletion, destruction or anonymisation procedures, and evidence of disposal must be retained where required.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-004",
+    "policy_name": "Data Incident Response Policy",
+    "category": "Data Privacy",
+    "department": "Information Security",
+    "description": "This policy defines the process for detecting, reporting, assessing, containing and resolving incidents involving personal, confidential or regulated information. Employees must promptly report suspected loss, unauthorised access, disclosure, alteration or destruction of protected information through the incident-management process.\n\nThe security team performs initial triage and coordinates with privacy, legal and business owners to determine the affected data, individuals, systems, jurisdictions and potential regulatory obligations. Incidents must be documented from detection through closure, including decisions, evidence, containment actions and corrective measures. Notification decisions must be based on applicable legal requirements and documented approval.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-005",
+    "policy_name": "Equal Opportunity Policy",
+    "category": "Human Resources",
+    "department": "Human Resources",
+    "description": "This policy requires employment decisions to be made fairly and consistently without unlawful discrimination. It applies to recruitment, promotion, compensation, training, performance management, disciplinary action and termination. Managers must use objective, job-related criteria and avoid decisions based on protected characteristics or other prohibited grounds.\n\nHR is responsible for maintaining appropriate procedures for complaints and reviewing workforce practices for potential unequal outcomes. Recruitment and employment records must contain sufficient evidence to demonstrate that decisions followed approved criteria. Concerns about discriminatory treatment must be escalated through the grievance or HR investigation process and handled confidentially.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-006",
+    "policy_name": "Recruitment and Selection Policy",
+    "category": "Human Resources",
+    "department": "Human Resources",
+    "description": "This policy establishes a controlled and consistent recruitment process from job approval through candidate selection and offer. Roles must have documented requirements, approved evaluation criteria and authorised hiring responsibility before recruitment begins. Candidate information must be collected only for legitimate recruitment purposes and handled through approved systems.\n\nInterview and assessment outcomes must be recorded using standard evaluation criteria. Selection decisions should be supported by documented evidence and reviewed for consistency. Background checks, references and other screening activities must follow applicable legal and privacy requirements. Candidate records must be retained and disposed of according to the approved retention schedule.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-007",
+    "policy_name": "Workplace Accommodation Policy",
+    "category": "Human Resources",
+    "department": "Human Resources",
+    "description": "This policy governs requests for reasonable workplace adjustments for employees and candidates. Requests must be received through an approved HR channel and assessed promptly, confidentially and individually. Managers must not request unnecessary medical or personal information and must involve the appropriate HR specialists when specialist assessment is required.\n\nApproved adjustments may include changes to working arrangements, equipment, schedules, workspace or job processes. Decisions and implementation responsibilities must be documented without exposing sensitive information unnecessarily. HR must periodically review accommodation arrangements and ensure that employees are not disadvantaged for requesting or using an approved adjustment.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-008",
+    "policy_name": "Employee Grievance Policy",
+    "category": "Human Resources",
+    "department": "Human Resources",
+    "description": "This policy provides a formal process for employees to raise concerns about workplace treatment, employment decisions, harassment, discrimination, policy breaches or other unresolved issues. Employees may submit grievances through designated channels, and managers must escalate matters that cannot be resolved informally.\n\nGrievances must be acknowledged, assigned to an appropriate investigator and handled impartially. Relevant evidence, interviews and decisions must be documented. Employees must not be subject to retaliation for raising a legitimate concern. Case records must be access-controlled and retained according to the applicable HR retention schedule.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-009",
+    "policy_name": "Financial Reporting Policy",
+    "category": "Finance",
+    "department": "Finance",
+    "description": "This policy establishes controls for preparing accurate, complete and timely financial reports. Finance teams must maintain supporting records for material transactions, perform reconciliations and apply approved accounting policies consistently. Journal entries, estimates and adjustments must have appropriate review and evidence of approval.\n\nFinancial reporting processes must include period-end controls, management review and segregation of duties for key activities. Material errors or suspected misstatements must be escalated promptly. Records supporting financial statements must be retained for the applicable statutory, audit and corporate retention periods.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-010",
+    "policy_name": "Tax Compliance Policy",
+    "category": "Finance",
+    "department": "Finance",
+    "description": "This policy establishes requirements for identifying, calculating, documenting and meeting the organisation's tax obligations. Finance must maintain a calendar of applicable filing and payment deadlines and assign responsibility for preparation, review and submission. Tax positions must be supported by appropriate records and reviewed when business activities or regulations change.\n\nTax records must be complete, traceable and retained for the required period. Material tax risks, uncertain positions and potential non-compliance must be escalated to the designated tax and finance leadership. External advisers may be used where specialist advice is required, subject to approved engagement and confidentiality controls.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-011",
+    "policy_name": "Expense Management Policy",
+    "category": "Finance",
+    "department": "Finance",
+    "description": "This policy governs employee and business expense claims, approvals, reimbursement and supporting documentation. Claims must be submitted through approved systems within the prescribed period and must identify the business purpose, amount, date and required supporting evidence.\n\nManagers are responsible for reviewing claims for legitimacy, policy compliance and appropriate business purpose. Finance performs additional checks and may reject unsupported or unusual transactions. Expenses involving related parties, gifts, travel or other controlled categories require the additional approvals specified by the relevant procedures. Records must be retained for financial, tax and audit purposes.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-012",
+    "policy_name": "Financial Audit Policy",
+    "category": "Finance",
+    "department": "Internal Audit",
+    "description": "This policy defines the organisation's framework for internal and external financial audit activities. Audit planning must consider financial reporting risks, materiality, prior findings, control effectiveness and changes to the organisation's operating environment. Auditors must have appropriate access to records and must maintain independence from activities they assess.\n\nAudit evidence, findings, management responses and remediation status must be documented. Significant control deficiencies or suspected financial misconduct must be escalated to the appropriate governance body. Corrective actions must have accountable owners and target dates, and unresolved high-risk findings must remain visible through subsequent review cycles.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-013",
+    "policy_name": "Payroll Processing Policy",
+    "category": "Payroll and Tax",
+    "department": "Payroll",
+    "description": "This policy establishes controls for calculating and processing employee payroll accurately and on time. Payroll must use approved employee, attendance, compensation, deduction and tax information. Changes to salary, bank details, benefits or deductions require authorised source documentation and appropriate review before inclusion in payroll.\n\nPayroll calculations must undergo pre-processing validation and post-processing reconciliation. Exceptions must be investigated before final payment where practicable. Payroll records must be protected because they contain personal and financial information, and statutory deductions, reporting and record-retention requirements must be monitored by the payroll function.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-014",
+    "policy_name": "Employee Benefits Policy",
+    "category": "Payroll and Tax",
+    "department": "Human Resources",
+    "description": "This policy governs the administration of employee benefits, including eligibility, enrolment, changes, approvals and communication. Benefits must be administered according to approved plan terms and applicable employment requirements. HR and payroll must maintain accurate eligibility and deduction information and coordinate changes that affect compensation or employee records.\n\nBenefit-related personal and financial information must be restricted to authorised personnel. Material changes to benefit plans must be communicated through approved channels and reflected in the relevant systems and records. Supporting documents must be retained according to legal, contractual and organisational requirements.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-015",
+    "policy_name": "Compensation Records Policy",
+    "category": "Payroll and Tax",
+    "department": "Payroll",
+    "description": "This policy establishes requirements for maintaining accurate records of employee compensation, salary changes, incentives, allowances, deductions and related approvals. Every material compensation change must be traceable to an authorised decision and recorded in the approved HR or payroll system.\n\nAccess to compensation records must be limited according to role. Payroll and HR must periodically reconcile compensation records against approved employee data and investigate discrepancies. Records must be retained for the applicable employment, tax, payroll and audit periods, with secure disposal after the retention requirement ends.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-016",
+    "policy_name": "Payroll Audit Policy",
+    "category": "Payroll and Tax",
+    "department": "Internal Audit",
+    "description": "This policy defines controls for periodically reviewing payroll accuracy, compliance and operational effectiveness. Payroll audits may examine employee master data, salary changes, deductions, tax calculations, benefits, payment files, access rights and reconciliation evidence.\n\nAudit testing must maintain an appropriate evidence trail and identify exceptions, control weaknesses and potential financial exposure. Findings must be assigned to accountable owners and tracked to closure. Access to payroll audit evidence must be restricted because the records may contain sensitive personal and financial information.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-017",
+    "policy_name": "Local Procurement Policy",
+    "category": "Local Governance",
+    "department": "Procurement",
+    "description": "This policy governs procurement activities involving local suppliers, contractors and community-facing purchasing. Procurement decisions must follow approved sourcing, evaluation, approval and conflict-of-interest controls. Where local supplier participation or local procurement requirements apply, the responsible team must maintain evidence demonstrating how the requirement was assessed and satisfied.\n\nSupplier records, quotations, evaluations, approvals and contracts must be retained in the approved procurement system. Exceptions to standard procurement procedures require documented justification and authorised approval. Procurement teams must monitor changes in applicable local requirements and update procedures when obligations change.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-018",
+    "policy_name": "Property and Planning Policy",
+    "category": "Local Governance",
+    "department": "Facilities",
+    "description": "This policy establishes controls for property-related planning, permits, development activity and engagement with local authorities. Facilities teams must identify applicable planning, property and local approval requirements before commencing controlled activities. Required permits, approvals, correspondence and supporting technical documents must be stored in the designated records system.\n\nChanges to property use, construction activity or site arrangements must be reviewed for regulatory implications. Engagement with local authorities must be documented, including submissions, decisions, conditions and follow-up actions. Records must be retained so that the organisation can demonstrate compliance during audits or regulatory enquiries.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-019",
+    "policy_name": "Community Engagement Policy",
+    "category": "Local Governance",
+    "department": "Corporate Affairs",
+    "description": "This policy establishes a structured approach for engaging local communities and other external stakeholders affected by organisational activities. Engagement activities must identify relevant stakeholders, define the purpose of consultation and provide appropriate channels for receiving and recording feedback.\n\nMaterial concerns, commitments and responses must be documented and assigned to responsible teams. Where community engagement is required by a permit, planning condition or other obligation, the relevant evidence must be maintained with the associated project records. Public communications must be accurate, approved and consistent with applicable legal and organisational requirements.",
+    "synthetic": true
+  },
+  {
+    "policy_id": "POL-020",
+    "policy_name": "Local Regulatory Compliance Policy",
+    "category": "Local Governance",
+    "department": "Compliance",
+    "description": "This policy establishes the organisation's framework for identifying, assessing, monitoring and documenting local regulatory obligations. Compliance must maintain a register of applicable requirements, responsible owners, effective dates and required controls. Business functions must notify Compliance when new activities, locations or regulatory communications may create additional obligations.\n\nRegulatory assessments must identify affected processes, records, approvals and reporting requirements. Material changes must be communicated to affected policy owners, and evidence of implementation must be retained. Compliance issues, missed obligations and unresolved regulatory risks must be escalated according to the organisation's risk-management process.",
+    "synthetic": true
+  }
+]

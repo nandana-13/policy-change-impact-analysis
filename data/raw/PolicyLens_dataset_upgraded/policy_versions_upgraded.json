@@ -1,0 +1,542 @@
+[
+  {
+    "policy_version_id": "POL-001-V1",
+    "policy_id": "POL-001",
+    "version_number": 1,
+    "effective_date": "2025-02-15",
+    "change_description": "Baseline policy establishes authorised collection, access control, retention and incident-escalation requirements for employee information.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-001-V2",
+    "policy_id": "POL-001",
+    "version_number": 2,
+    "effective_date": "2026-02-15",
+    "change_description": "Version 2 introduces documented processing-purpose reviews, stronger third-party disclosure controls and mandatory periodic access reviews.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-001-V3",
+    "policy_id": "POL-001",
+    "version_number": 3,
+    "effective_date": "2027-02-15",
+    "change_description": "Version 3 adds formal evidence requirements for privacy requests, transfer assessments and incident-notification decisions.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-002-V1",
+    "policy_id": "POL-002",
+    "version_number": 1,
+    "effective_date": "2025-03-15",
+    "change_description": "Baseline policy establishes lifecycle controls for customer personal information and approved-system requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-002-V2",
+    "policy_id": "POL-002",
+    "version_number": 2,
+    "effective_date": "2026-03-15",
+    "change_description": "Version 2 strengthens processor due diligence, access logging and security requirements for systems handling customer information.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-002-V3",
+    "policy_id": "POL-002",
+    "version_number": 3,
+    "effective_date": "2027-03-15",
+    "change_description": "Version 3 adds formal privacy-incident escalation criteria and documented assessment of notification obligations.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-003-V1",
+    "policy_id": "POL-003",
+    "version_number": 1,
+    "effective_date": "2025-04-15",
+    "change_description": "Baseline policy establishes retention schedules, legal-hold controls and secure disposal requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-003-V2",
+    "policy_id": "POL-003",
+    "version_number": 2,
+    "effective_date": "2026-04-15",
+    "change_description": "Version 2 introduces periodic retention reviews and owner accountability for overdue records.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-003-V3",
+    "policy_id": "POL-003",
+    "version_number": 3,
+    "effective_date": "2027-04-15",
+    "change_description": "Version 3 strengthens evidence of deletion, archival and legal-hold release decisions.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-004-V1",
+    "policy_id": "POL-004",
+    "version_number": 1,
+    "effective_date": "2025-05-15",
+    "change_description": "Baseline policy establishes reporting, triage, containment and documentation requirements for data incidents.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-004-V2",
+    "policy_id": "POL-004",
+    "version_number": 2,
+    "effective_date": "2026-05-15",
+    "change_description": "Version 2 adds formal severity classification and mandatory coordination between security, privacy and legal teams.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-004-V3",
+    "policy_id": "POL-004",
+    "version_number": 3,
+    "effective_date": "2027-05-15",
+    "change_description": "Version 3 strengthens incident evidence, notification-decision records and post-incident corrective-action tracking.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-005-V1",
+    "policy_id": "POL-005",
+    "version_number": 1,
+    "effective_date": "2025-06-15",
+    "change_description": "Baseline policy establishes non-discrimination and fair-decision principles across employment activities.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-005-V2",
+    "policy_id": "POL-005",
+    "version_number": 2,
+    "effective_date": "2026-06-15",
+    "change_description": "Version 2 adds documented objective selection criteria and periodic review of employment decision processes.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-005-V3",
+    "policy_id": "POL-005",
+    "version_number": 3,
+    "effective_date": "2027-06-15",
+    "change_description": "Version 3 strengthens complaint escalation, investigation records and monitoring of potential unequal outcomes.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-006-V1",
+    "policy_id": "POL-006",
+    "version_number": 1,
+    "effective_date": "2025-07-15",
+    "change_description": "Baseline policy establishes standard recruitment, assessment, screening and candidate-record requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-006-V2",
+    "policy_id": "POL-006",
+    "version_number": 2,
+    "effective_date": "2026-07-15",
+    "change_description": "Version 2 introduces documented evaluation criteria and additional review of screening and candidate-data handling.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-006-V3",
+    "policy_id": "POL-006",
+    "version_number": 3,
+    "effective_date": "2027-07-15",
+    "change_description": "Version 3 strengthens retention, access control and evidence requirements for recruitment decisions.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-007-V1",
+    "policy_id": "POL-007",
+    "version_number": 1,
+    "effective_date": "2025-08-15",
+    "change_description": "Baseline policy establishes confidential assessment and implementation of reasonable workplace adjustments.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-007-V2",
+    "policy_id": "POL-007",
+    "version_number": 2,
+    "effective_date": "2026-08-15",
+    "change_description": "Version 2 introduces formal request tracking, specialist review and implementation ownership.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-007-V3",
+    "policy_id": "POL-007",
+    "version_number": 3,
+    "effective_date": "2027-08-15",
+    "change_description": "Version 3 strengthens confidentiality controls and periodic review of accommodation arrangements.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-008-V1",
+    "policy_id": "POL-008",
+    "version_number": 1,
+    "effective_date": "2025-09-15",
+    "change_description": "Baseline policy establishes formal submission, investigation and resolution procedures for employee grievances.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-008-V2",
+    "policy_id": "POL-008",
+    "version_number": 2,
+    "effective_date": "2026-09-15",
+    "change_description": "Version 2 adds mandatory acknowledgement, investigator assignment and evidence-retention requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-008-V3",
+    "policy_id": "POL-008",
+    "version_number": 3,
+    "effective_date": "2027-09-15",
+    "change_description": "Version 3 strengthens anti-retaliation controls, confidentiality and management reporting for unresolved cases.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-009-V1",
+    "policy_id": "POL-009",
+    "version_number": 1,
+    "effective_date": "2025-10-15",
+    "change_description": "Baseline policy establishes financial reporting preparation, reconciliation, review and supporting-record requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-009-V2",
+    "policy_id": "POL-009",
+    "version_number": 2,
+    "effective_date": "2026-10-15",
+    "change_description": "Version 2 strengthens journal-entry approval, period-end controls and material-error escalation.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-009-V3",
+    "policy_id": "POL-009",
+    "version_number": 3,
+    "effective_date": "2027-10-15",
+    "change_description": "Version 3 adds enhanced evidence requirements for estimates, adjustments and audit support.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-010-V1",
+    "policy_id": "POL-010",
+    "version_number": 1,
+    "effective_date": "2025-11-15",
+    "change_description": "Baseline policy establishes tax filing, payment, documentation and ownership requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-010-V2",
+    "policy_id": "POL-010",
+    "version_number": 2,
+    "effective_date": "2026-11-15",
+    "change_description": "Version 2 introduces a controlled tax calendar and formal review of material tax positions.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-010-V3",
+    "policy_id": "POL-010",
+    "version_number": 3,
+    "effective_date": "2027-11-15",
+    "change_description": "Version 3 strengthens retention, adviser oversight and escalation of uncertain or potentially non-compliant tax positions.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-011-V1",
+    "policy_id": "POL-011",
+    "version_number": 1,
+    "effective_date": "2025-12-15",
+    "change_description": "Baseline policy establishes expense submission, approval, reimbursement and supporting-document requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-011-V2",
+    "policy_id": "POL-011",
+    "version_number": 2,
+    "effective_date": "2026-12-15",
+    "change_description": "Version 2 strengthens manager review and controls for unusual, related-party and controlled-category expenses.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-011-V3",
+    "policy_id": "POL-011",
+    "version_number": 3,
+    "effective_date": "2027-12-15",
+    "change_description": "Version 3 adds enhanced evidence and audit-trail requirements for expense exceptions and rejected claims.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-012-V1",
+    "policy_id": "POL-012",
+    "version_number": 1,
+    "effective_date": "2025-01-15",
+    "change_description": "Baseline policy establishes audit planning, evidence, findings and remediation controls.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-012-V2",
+    "policy_id": "POL-012",
+    "version_number": 2,
+    "effective_date": "2026-01-15",
+    "change_description": "Version 2 introduces risk-based audit planning and stronger governance escalation for significant control deficiencies.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-012-V3",
+    "policy_id": "POL-012",
+    "version_number": 3,
+    "effective_date": "2027-01-15",
+    "change_description": "Version 3 strengthens remediation tracking, evidence retention and follow-up of unresolved high-risk findings.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-013-V1",
+    "policy_id": "POL-013",
+    "version_number": 1,
+    "effective_date": "2025-02-15",
+    "change_description": "Baseline policy establishes payroll calculation, approval, validation, reconciliation and statutory reporting controls.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-013-V2",
+    "policy_id": "POL-013",
+    "version_number": 2,
+    "effective_date": "2026-02-15",
+    "change_description": "Version 2 strengthens controls over employee-master changes, bank details and compensation inputs.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-013-V3",
+    "policy_id": "POL-013",
+    "version_number": 3,
+    "effective_date": "2027-02-15",
+    "change_description": "Version 3 adds enhanced pre-payment validation, exception tracking and payroll-record access controls.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-014-V1",
+    "policy_id": "POL-014",
+    "version_number": 1,
+    "effective_date": "2025-03-15",
+    "change_description": "Baseline policy establishes employee-benefit eligibility, enrolment, administration and recordkeeping requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-014-V2",
+    "policy_id": "POL-014",
+    "version_number": 2,
+    "effective_date": "2026-03-15",
+    "change_description": "Version 2 strengthens coordination between HR and payroll for benefit-related compensation and deduction changes.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-014-V3",
+    "policy_id": "POL-014",
+    "version_number": 3,
+    "effective_date": "2027-03-15",
+    "change_description": "Version 3 adds formal communication and evidence requirements for material benefit-plan changes.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-015-V1",
+    "policy_id": "POL-015",
+    "version_number": 1,
+    "effective_date": "2025-04-15",
+    "change_description": "Baseline policy establishes traceable records for compensation, salary changes, incentives, deductions and approvals.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-015-V2",
+    "policy_id": "POL-015",
+    "version_number": 2,
+    "effective_date": "2026-04-15",
+    "change_description": "Version 2 introduces periodic reconciliation between compensation records and approved HR data.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-015-V3",
+    "policy_id": "POL-015",
+    "version_number": 3,
+    "effective_date": "2027-04-15",
+    "change_description": "Version 3 strengthens access restrictions, discrepancy escalation and retention controls for compensation records.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-016-V1",
+    "policy_id": "POL-016",
+    "version_number": 1,
+    "effective_date": "2025-05-15",
+    "change_description": "Baseline policy establishes payroll audit scope, evidence, exception reporting and remediation requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-016-V2",
+    "policy_id": "POL-016",
+    "version_number": 2,
+    "effective_date": "2026-05-15",
+    "change_description": "Version 2 expands audit testing to access rights, payment files and reconciliation controls.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-016-V3",
+    "policy_id": "POL-016",
+    "version_number": 3,
+    "effective_date": "2027-05-15",
+    "change_description": "Version 3 strengthens finding ownership, closure evidence and protection of sensitive payroll audit records.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-017-V1",
+    "policy_id": "POL-017",
+    "version_number": 1,
+    "effective_date": "2025-06-15",
+    "change_description": "Baseline policy establishes sourcing, evaluation, approval and recordkeeping controls for local procurement.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-017-V2",
+    "policy_id": "POL-017",
+    "version_number": 2,
+    "effective_date": "2026-06-15",
+    "change_description": "Version 2 adds documented assessment of local supplier and local procurement requirements.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-017-V3",
+    "policy_id": "POL-017",
+    "version_number": 3,
+    "effective_date": "2027-06-15",
+    "change_description": "Version 3 strengthens exception approval, supplier evidence and monitoring of changes in local procurement obligations.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-018-V1",
+    "policy_id": "POL-018",
+    "version_number": 1,
+    "effective_date": "2025-07-15",
+    "change_description": "Baseline policy establishes controls for property approvals, planning requirements, authority engagement and records.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-018-V2",
+    "policy_id": "POL-018",
+    "version_number": 2,
+    "effective_date": "2026-07-15",
+    "change_description": "Version 2 introduces formal pre-activity regulatory checks and approval tracking.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-018-V3",
+    "policy_id": "POL-018",
+    "version_number": 3,
+    "effective_date": "2027-07-15",
+    "change_description": "Version 3 strengthens documentation of authority correspondence, conditions, permits and follow-up actions.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-019-V1",
+    "policy_id": "POL-019",
+    "version_number": 1,
+    "effective_date": "2025-08-15",
+    "change_description": "Baseline policy establishes structured stakeholder identification, consultation and engagement records.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-019-V2",
+    "policy_id": "POL-019",
+    "version_number": 2,
+    "effective_date": "2026-08-15",
+    "change_description": "Version 2 introduces formal tracking of community concerns, commitments and responsible owners.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-019-V3",
+    "policy_id": "POL-019",
+    "version_number": 3,
+    "effective_date": "2027-08-15",
+    "change_description": "Version 3 strengthens evidence requirements where engagement forms part of a regulatory or planning obligation.",
+    "status": "active",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-020-V1",
+    "policy_id": "POL-020",
+    "version_number": 1,
+    "effective_date": "2025-09-15",
+    "change_description": "Baseline policy establishes a regulatory register, ownership model and monitoring process for local obligations.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-020-V2",
+    "policy_id": "POL-020",
+    "version_number": 2,
+    "effective_date": "2026-09-15",
+    "change_description": "Version 2 introduces formal impact assessments for new requirements and escalation of material compliance gaps.",
+    "status": "superseded",
+    "synthetic": true
+  },
+  {
+    "policy_version_id": "POL-020-V3",
+    "policy_id": "POL-020",
+    "version_number": 3,
+    "effective_date": "2027-09-15",
+    "change_description": "Version 3 strengthens evidence of implementation, effective-date tracking and communication to affected policy owners.",
+    "status": "active",
+    "synthetic": true
+  }
+]

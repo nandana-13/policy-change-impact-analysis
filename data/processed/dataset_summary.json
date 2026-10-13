@@ -1,0 +1,18 @@
+{
+  "total_questions": 27869,
+  "questions_by_split": {
+    "train": 22295,
+    "dev": 2788,
+    "test": 2786
+  },
+  "unique_documents": 40,
+  "unique_passages": 6027,
+  "groups": {
+    "1": 7988,
+    "10": 2704,
+    "4": 4558,
+    "2": 7254,
+    "3": 5365
+  },
+  "total_passage_references": 36890
+}

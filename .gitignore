@@ -1,0 +1,42 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Generated Python artifacts
+.pytest_cache/
+.mypy_cache/
+
+# Generated retrieval artifacts
+data/processed/legal_rag/embeddings/svd_model.pkl
+data/vectorstore/legal_chroma/
+
+data/processed/legal_rag/legal_chunks.parquet
+
+data/processed/legal_rag/embeddings/
+
+data/vectorstore/legal_chroma/

@@ -1,0 +1,107 @@
+[
+  {
+    "regulatory_change_id": "DATA_PROTECTION_ACT_2018-CHANGE-001",
+    "regulatory_act": "data_protection_act_2018",
+    "change_topic": "Personal data processing and accountability",
+    "change_description": "Introduces strengthened organisational expectations around documented processing purposes, access controls and evidence supporting the handling of personal information.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "DATA_PROTECTION_ACT_2018-CHANGE-002",
+    "regulatory_act": "data_protection_act_2018",
+    "change_topic": "Personal data retention and disposal",
+    "change_description": "Clarifies requirements for retention schedules, review of unnecessary personal data and secure disposal after applicable retention periods.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "DATA_PROTECTION_ACT_2018-CHANGE-003",
+    "regulatory_act": "data_protection_act_2018",
+    "change_topic": "Personal data incident response",
+    "change_description": "Strengthens expectations for documenting personal-data incidents, assessing risk and maintaining evidence supporting notification decisions.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "EQUALITY_ACT_2010-CHANGE-001",
+    "regulatory_act": "equality_act_2010",
+    "change_topic": "Equality in employment decisions",
+    "change_description": "Clarifies requirements for consistent and non-discriminatory employment practices across recruitment, promotion and workplace decisions.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "EQUALITY_ACT_2010-CHANGE-002",
+    "regulatory_act": "equality_act_2010",
+    "change_topic": "Workplace adjustments",
+    "change_description": "Strengthens expectations for considering reasonable workplace adjustments and documenting decisions without unnecessary disclosure of sensitive information.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "EQUALITY_ACT_2010-CHANGE-003",
+    "regulatory_act": "equality_act_2010",
+    "change_topic": "Employment records and grievance handling",
+    "change_description": "Introduces stronger expectations for evidence, complaint handling and retention of records supporting fair employment practices.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "FINANCE_ACT_2003-CHANGE-001",
+    "regulatory_act": "finance_act_2003",
+    "change_topic": "Financial reporting controls",
+    "change_description": "Strengthens requirements affecting financial records, reporting evidence and controls supporting accurate financial information.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "FINANCE_ACT_2003-CHANGE-002",
+    "regulatory_act": "finance_act_2003",
+    "change_topic": "Tax records and reporting",
+    "change_description": "Clarifies requirements for maintaining supporting tax records and ensuring timely, traceable reporting and payment processes.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "FINANCE_ACT_2003-CHANGE-003",
+    "regulatory_act": "finance_act_2003",
+    "change_topic": "Financial audit evidence",
+    "change_description": "Strengthens expectations for audit evidence, review trails and retention of records supporting financial compliance.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "INCOME_TAX_EARNINGS_PENSIONS_ACT_2003-CHANGE-001",
+    "regulatory_act": "income_tax_earnings_pensions_act_2003",
+    "change_topic": "Employment income and payroll records",
+    "change_description": "Introduces changes affecting the calculation, reporting and evidencing of employment income and payroll-related obligations.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "INCOME_TAX_EARNINGS_PENSIONS_ACT_2003-CHANGE-002",
+    "regulatory_act": "income_tax_earnings_pensions_act_2003",
+    "change_topic": "Employee benefits and taxable compensation",
+    "change_description": "Clarifies treatment and documentation requirements for employee benefits and compensation-related information used for tax purposes.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "INCOME_TAX_EARNINGS_PENSIONS_ACT_2003-CHANGE-003",
+    "regulatory_act": "income_tax_earnings_pensions_act_2003",
+    "change_topic": "Payroll compliance evidence",
+    "change_description": "Strengthens expectations for maintaining payroll records and evidence supporting employment-income calculations and reporting.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "LOCALISM_ACT_2011-CHANGE-001",
+    "regulatory_act": "localism_act_2011",
+    "change_topic": "Local planning and community requirements",
+    "change_description": "Introduces changes affecting local planning, community participation and organisational engagement with local authorities and stakeholders.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "LOCALISM_ACT_2011-CHANGE-002",
+    "regulatory_act": "localism_act_2011",
+    "change_topic": "Local procurement and community participation",
+    "change_description": "Clarifies expectations relevant to local participation, procurement processes and evidence supporting local governance decisions.",
+    "synthetic": true
+  },
+  {
+    "regulatory_change_id": "LOCALISM_ACT_2011-CHANGE-003",
+    "regulatory_act": "localism_act_2011",
+    "change_topic": "Local regulatory monitoring and records",
+    "change_description": "Strengthens requirements for documenting local regulatory obligations, decisions, consultations and evidence of compliance.",
+    "synthetic": true
+  }
+]

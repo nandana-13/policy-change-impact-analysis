@@ -1,0 +1,269 @@
+/* ================================
+   LOGIN PAGE
+================================ */
+
+.login-page {
+  min-height: 100vh;
+  background: #f6f7f3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+
+
+/* ================================
+   CONTAINER
+================================ */
+
+.login-container {
+  width: 100%;
+  max-width: 460px;
+}
+
+
+/* ================================
+   BRAND
+================================ */
+
+.login-brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin-bottom: 32px;
+}
+
+.login-brand-mark {
+  width: 48px;
+  height: 48px;
+  background: #486451;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.login-brand h1 {
+  margin: 0;
+  color: #202923;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.login-brand p {
+  margin: 3px 0 0;
+  color: #68736c;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+}
+
+
+/* ================================
+   LOGIN CARD
+================================ */
+
+.login-card {
+  background: #ffffff;
+  border: 1px solid #d9ddd7;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+
+/* ================================
+   HEADER
+================================ */
+
+.login-header {
+  margin-bottom: 30px;
+}
+
+.login-eyebrow {
+  display: block;
+  margin-bottom: 10px;
+  color: #486451;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.4px;
+}
+
+.login-header h2 {
+  margin: 0 0 10px;
+  color: #202923;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.login-header p {
+  margin: 0;
+  color: #68736c;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+
+/* ================================
+   FORM
+================================ */
+
+.login-field {
+  margin-bottom: 22px;
+}
+
+.login-field label {
+  display: block;
+  margin-bottom: 8px;
+  color: #202923;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.login-field input {
+  width: 100%;
+  height: 48px;
+  padding: 0 14px;
+  box-sizing: border-box;
+
+  border: 1px solid #cfd5cf;
+  background: #fafbf9;
+
+  color: #202923;
+  font-size: 14px;
+
+  outline: none;
+  transition: border-color 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+.login-field input::placeholder {
+  color: #9aa29c;
+}
+
+.login-field input:focus {
+  border-color: #486451;
+  box-shadow: 0 0 0 3px rgba(72, 100, 81, 0.08);
+}
+
+
+/* ================================
+   SIGN IN BUTTON
+================================ */
+
+.login-submit {
+  width: 100%;
+  height: 50px;
+
+  margin-top: 8px;
+
+  border: none;
+  background: #3f5d4c;
+  color: white;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+
+  transition: background 0.2s ease;
+}
+
+.login-submit:hover {
+  background: #304a3b;
+}
+
+.login-submit span {
+  font-size: 18px;
+}
+
+
+/* ================================
+   BACK BUTTON
+================================ */
+
+.back-to-overview {
+  width: 100%;
+  margin-top: 22px;
+
+  border: none;
+  background: transparent;
+
+  color: #68736c;
+  font-size: 13px;
+
+  cursor: pointer;
+}
+
+.back-to-overview:hover {
+  color: #3f5d4c;
+}
+
+
+/* ================================
+   FOOTER
+================================ */
+
+.login-footer {
+  text-align: center;
+  margin-top: 25px;
+
+  color: #8a938c;
+  font-size: 11px;
+}
+
+
+/* ================================
+   RESPONSIVE
+================================ */
+
+@media (max-width: 600px) {
+
+  .login-page {
+    padding: 25px 16px;
+  }
+
+  .login-card {
+    padding: 28px 22px;
+  }
+
+  .login-header h2 {
+    font-size: 26px;
+  }
+
+  .login-brand {
+    margin-bottom: 25px;
+  }
+
+}
+
+.login-error {
+  margin: -5px 0 18px;
+  padding: 11px 13px;
+
+  border: 1px solid #e0b8b8;
+  background: #fdf5f5;
+
+  color: #9a4141;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.login-submit:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+
+.login-field input:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
